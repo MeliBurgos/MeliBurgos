@@ -1,12 +1,12 @@
 <h1> Hola! Bienvenidos a mi perfil de Github, soy Melisa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h3> Sobre mí <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
+<h2> Sobre mí <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 Soy de Buenos Aires, Argentina y soy Full-Stack Developer. Empecé con un curso de Introductorio de programación. Luego, me animé a realizar el Coding Bootcamp de Plataforma 5, fue una capacitación intensiva de 800 horas donde prácticamos tanto FrontEnd como BackEnd y realizamos 3 proyectos.
 
 ---
 
-<h4> Teconologías y herramientas </h4>
+<h3> Teconologías y herramientas </h3>
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" heigth="40"/>
@@ -23,7 +23,7 @@ Soy de Buenos Aires, Argentina y soy Full-Stack Developer. Empecé con un curso 
 
 ---
 
-<h4> Contacto </h4>
+<h3> Contacto </h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/melisaburgos/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="45" heigth="45"/>
 </div>
