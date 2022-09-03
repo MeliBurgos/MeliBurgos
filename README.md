@@ -1,4 +1,4 @@
-<h2> Hola! Bienvenidos a mi perfil de Github, soy Melisa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1> Hola! Bienvenidos a mi perfil de Github, soy Melisa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <h3> Sobre mí <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 
